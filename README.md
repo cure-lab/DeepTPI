@@ -1,7 +1,7 @@
 ## DeepTPI: Test Point Insertion with Deep Reinforcement Learning
 
 Code repository for the paper:  
-** DeepTPI: Test Point Insertion with Deep Reinforcement Learning **  
+**DeepTPI: Test Point Insertion with Deep Reinforcement Learning**  
 [Zhengyuan Shi](https://cure-lab.github.io/people/zhengyuan_shi/index.html), [Min Li](https://cure-lab.github.io/people/min_li/index.html), [Sadaf Khan](https://khan-sadaf.github.io/), Liuzheng Wang, Naixing Wang, Yu Huang and [Qiang Xu](https://cure-lab.github.io/qiang_xu.html)
 
 # Abstract
